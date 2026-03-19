@@ -1,6 +1,7 @@
 /*
-
-
+Autor: Erick Felipy
+Data: 17/03/2026
+Objetivo: Calcular quanto andou no ano
 */
 
 #include <stdio.h>
